@@ -27,11 +27,8 @@
         <mark key="'" line="80" column="0" />
       </file>
       <file name="$USER_HOME$/code/GeekNews-master/app/build.gradle" timestamp="1502699819789" />
-      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/MainActivity.java" timestamp="1502700175327">
-        <mark key="[" line="23" column="27" />
-        <mark key="]" line="23" column="28" />
-        <mark key="^" line="23" column="28" />
-        <mark key="." line="23" column="28" />
+      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/MainActivity.java" timestamp="1502700582090">
+        <mark key="." line="0" column="73" />
       </file>
       <file name="$USER_HOME$/code/GankIO/config.gradle" timestamp="1502700092250">
         <mark key="[" line="13" column="32" />
@@ -58,6 +55,7 @@
     </filemarks>
     <jumps>
       <jump line="80" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/app/Constants.java" />
+      <jump line="19" column="81" filename="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/MainActivity.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
