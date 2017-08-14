@@ -25,6 +25,9 @@
       <register name="&quot;" type="4">
         <text>+</text>
       </register>
+      <register name=":" type="4">
+        <text>set nu</text>
+      </register>
       <register name="-" type="4">
         <text>+</text>
       </register>
@@ -35,7 +38,9 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>set nu</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
