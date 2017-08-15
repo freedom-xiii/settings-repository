@@ -23,8 +23,14 @@
       <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/app/Constants.java" timestamp="1502695852331">
         <mark key="'" line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/MainActivity.java" timestamp="1502762234641">
+      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/MainActivity.java" timestamp="1502766292637">
         <mark key="." line="0" column="73" />
+      </file>
+      <file name="$USER_HOME$/code/GankIO/app/src/test/java/com/xiii/gankio/RxjavaTest.java" timestamp="1502766954583">
+        <mark key="[" line="18" column="42" />
+        <mark key="]" line="18" column="46" />
+        <mark key="^" line="18" column="46" />
+        <mark key="." line="18" column="46" />
       </file>
       <file name="$USER_HOME$/code/GankIO/config.gradle" timestamp="1502700092250">
         <mark key="[" line="13" column="32" />
@@ -43,6 +49,9 @@
         <mark key="^" line="1" column="24" />
         <mark key="." line="1" column="24" />
       </file>
+      <file name="/fragment.java" timestamp="1502766354051">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/GeekNews-master/config.gradle" timestamp="1502688000051">
         <mark key="[" line="4" column="38" />
         <mark key="]" line="4" column="39" />
@@ -57,8 +66,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IiAvPgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IiAvPgo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIK</text>
@@ -76,7 +85,7 @@
         <text>set nu</text>
       </register>
       <register name="-" type="4">
-        <text>ConstraintLayout</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>url</text>
