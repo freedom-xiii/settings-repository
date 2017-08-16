@@ -20,6 +20,13 @@
         <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
+      <file name="$USER_HOME$/code/Gank/app/build.gradle" timestamp="1502861996234">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="38" column="71" />
+        <mark key="]" line="38" column="68" />
+        <mark key="." line="38" column="68" />
+        <mark key="^" line="38" column="68" />
+      </file>
       <file name="$USER_HOME$/code/Gank/build.gradle" timestamp="1502860728481">
         <mark key="[" line="16" column="17" />
         <mark key="]" line="9" column="84" />
@@ -38,13 +45,13 @@
         <mark key="^" line="51" column="15" />
         <mark key="." line="51" column="15" />
       </file>
-      <file name="$USER_HOME$/code/Gank/config.gradle" timestamp="1502860400731">
-        <mark key="[" line="24" column="75" />
-        <mark key="]" line="27" column="11" />
-        <mark key="^" line="27" column="11" />
-        <mark key="." line="27" column="11" />
+      <file name="$USER_HOME$/code/Gank/config.gradle" timestamp="1502862018741">
+        <mark key="[" line="32" column="13" />
+        <mark key="]" line="32" column="14" />
+        <mark key="." line="32" column="14" />
+        <mark key="^" line="56" column="121" />
       </file>
-      <file name="$USER_HOME$/code/GankIO/config.gradle" timestamp="1502861038134">
+      <file name="$USER_HOME$/code/GankIO/config.gradle" timestamp="1502861535338">
         <mark key="[" line="33" column="75" />
         <mark key="]" line="35" column="82" />
         <mark key="." line="35" column="82" />
@@ -74,43 +81,44 @@
     <jumps>
       <jump line="80" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/app/Constants.java" />
       <jump line="19" column="81" filename="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/MainActivity.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/code/Gank/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI2LisnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>url</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI2LisnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImRhZ2dlciIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnYW5kcm9pZC1hcHQnCg==</text>
+        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb3ZpZGVkIHJvb3RQcm9qZWN0LmV4dC5kZXBlbmRlbmNpZXNbImFubm90YXRpb24iXQo=</text>
+        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0Q29tcGlsZSAnY29tLmFuZHJvaWQuc3VwcG9ydC50ZXN0OnJ1bGVzOjAuNScK</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnYW5kcm9pZC1hcHQnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0Q29tcGlsZSAnY29tLmFuZHJvaWQuc3VwcG9ydC50ZXN0OnJ1bm5lcjowLjUnCg==</text>
+        <text encoding="base64">ICAgIHByb3ZpZGVkIHJvb3RQcm9qZWN0LmV4dC5kZXBlbmRlbmNpZXNbImFubm90YXRpb24iXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImFubm90YXRpb24iICAgICAgICAgICAgICAgIDogIm9yZy5nbGFzc2Zpc2g6amF2YXguYW5ub3RhdGlvbjoxMC4wLWIyOCIsCg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0Q29tcGlsZSAnY29tLmFuZHJvaWQuc3VwcG9ydC50ZXN0OnJ1bGVzOjAuNScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0Q29tcGlsZSAnY29tLmFuZHJvaWQuc3VwcG9ydDpzdXBwb3J0LWFubm90YXRpb25zOjI1LjEuMCcK</text>
+        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0Q29tcGlsZSAnY29tLmFuZHJvaWQuc3VwcG9ydC50ZXN0OnJ1bm5lcjowLjUnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5uZWVuYmVkYW5rdC5ncmFkbGUucGx1Z2luczphbmRyb2lkLWFwdDoxLjgnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImFubm90YXRpb24iICAgICAgICAgICAgICAgIDogIm9yZy5nbGFzc2Zpc2g6amF2YXguYW5ub3RhdGlvbjoxMC4wLWIyOCIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
