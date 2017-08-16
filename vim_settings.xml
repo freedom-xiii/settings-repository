@@ -173,13 +173,18 @@
         <mark key="^" line="34" column="39" />
         <mark key="." line="34" column="39" />
       </file>
+      <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/model/prefs/ImplPreferencesHelper.java" timestamp="1502886671927">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/AndroidManifest.xml" timestamp="1502866774123">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="5" column="29" />
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1502873575480">
+      <file name="/fragment.java" timestamp="1502886492419">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -249,8 +254,8 @@
       <jump line="61" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/model/http/RetrofitHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>nightModeState</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBERUZBVUxUX0NVUlJFTlRfSVRFTT0K</text>
       </register>
       <register name="-" type="4">
         <text>nightModeState</text>
@@ -259,31 +264,31 @@
         <text>url</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBERUZBVUxUX0NVUlJFTlRfSVRFTT0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBwYWdlCg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBjb3VudAo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBwYWdlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBjYXRlZ29yeQo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBjb3VudAo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBjYXRlZ29yeQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHZvaWQgaW5qZWN0KCkK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBESU1FTl9SQVRFID0gZG0uZGVuc2l0eURwaTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBESU1FTl9EUEkgPSBkbS5kZW5zaXR5IC8gMS4wZjsK</text>
+        <text encoding="base64">ICAgICAgICBESU1FTl9SQVRFID0gZG0uZGVuc2l0eURwaTsK</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
