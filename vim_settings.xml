@@ -32,11 +32,11 @@
       <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/app/Constants.java" timestamp="1502695852331">
         <mark key="'" line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/code/GankIO/config.gradle" timestamp="1502848202008">
-        <mark key="[" line="13" column="32" />
-        <mark key="]" line="13" column="33" />
-        <mark key="." line="13" column="33" />
-        <mark key="^" line="9" column="34" />
+      <file name="$USER_HOME$/code/GankIO/config.gradle" timestamp="1502850440064">
+        <mark key="[" line="38" column="75" />
+        <mark key="]" line="38" column="76" />
+        <mark key="." line="38" column="76" />
+        <mark key="^" line="38" column="73" />
       </file>
       <file name="$USER_HOME$/code/GankIO/app/build.gradle" timestamp="1502699692381">
         <mark key="[" line="2" column="0" />
@@ -67,7 +67,7 @@
         <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IiAvPgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIK</text>
@@ -85,7 +85,7 @@
         <text>set nu</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>url</text>
