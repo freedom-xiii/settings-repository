@@ -32,22 +32,23 @@
       <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/app/Constants.java" timestamp="1502695852331">
         <mark key="'" line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/code/GankIO/config.gradle" timestamp="1502850440064">
-        <mark key="[" line="38" column="75" />
-        <mark key="]" line="38" column="76" />
-        <mark key="." line="38" column="76" />
-        <mark key="^" line="38" column="73" />
+      <file name="$USER_HOME$/code/GankIO/config.gradle" timestamp="1502854848345">
+        <mark key="[" line="62" column="70" />
+        <mark key="]" line="62" column="74" />
+        <mark key="." line="62" column="74" />
+        <mark key="^" line="62" column="74" />
       </file>
-      <file name="$USER_HOME$/code/GankIO/app/build.gradle" timestamp="1502699692381">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/code/GankIO/app/build.gradle" timestamp="1502851249497">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="91" column="22" />
       </file>
-      <file name="$USER_HOME$/code/GankIO/build.gradle" timestamp="1502699940903">
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="1" column="24" />
-        <mark key="^" line="1" column="24" />
-        <mark key="." line="1" column="24" />
+      <file name="$USER_HOME$/code/GankIO/build.gradle" timestamp="1502855787651">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="8" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="5" column="8" />
       </file>
       <file name="/fragment.java" timestamp="1502766354051">
         <mark key="[" line="0" column="0" />
@@ -63,32 +64,44 @@
       <jump line="19" column="81" filename="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IiAvPgo=</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>0</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Igo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAncmVhbG0tYW5kcm9pZCcK</text>
-      </register>
-      <register name=":" type="4">
-        <text>set nu</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>url</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnYW5kcm9pZC1hcHQnCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByb3ZpZGVkIHJvb3RQcm9qZWN0LmV4dC5kZXBlbmRlbmNpZXNbImFubm90YXRpb24iXQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0Q29tcGlsZSAnY29tLmFuZHJvaWQuc3VwcG9ydC50ZXN0OnJ1bGVzOjAuNScK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0Q29tcGlsZSAnY29tLmFuZHJvaWQuc3VwcG9ydC50ZXN0OnJ1bm5lcjowLjUnCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgImFubm90YXRpb24iICAgICAgICAgICAgICAgIDogIm9yZy5nbGFzc2Zpc2g6amF2YXguYW5ub3RhdGlvbjoxMC4wLWIyOCIsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0Q29tcGlsZSAnY29tLmFuZHJvaWQuc3VwcG9ydDpzdXBwb3J0LWFubm90YXRpb25zOjI1LjEuMCcK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5uZWVuYmVkYW5rdC5ncmFkbGUucGx1Z2luczphbmRyb2lkLWFwdDoxLjgnCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IiAvPgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIK</text>
+      </register>
+      <register name=":" type="4">
+        <text>set nu</text>
       </register>
     </registers>
     <search>
