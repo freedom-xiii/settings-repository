@@ -28,10 +28,6 @@
       <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/model/http/RetrofitHelper.java" timestamp="1502871232338">
         <mark key="'" line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/app/Constants.java" timestamp="1502894274309">
-        <mark key="'" line="12" column="0" />
-        <mark key="m" line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/model/http/HttpHelper.java" timestamp="1502870982363">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="42" />
@@ -50,6 +46,11 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
+      <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/MainActivity.java" timestamp="1502947306535">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+      </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/base/BasePresenter.java" timestamp="1502868009017">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="10" column="21" />
@@ -61,6 +62,11 @@
         <mark key="]" line="18" column="16" />
         <mark key="^" line="24" column="35" />
         <mark key="." line="18" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/WelcomeActivity.java" timestamp="1502947316634">
+        <mark key="]" line="5" column="27" />
+        <mark key="^" line="5" column="27" />
+        <mark key="." line="5" column="27" />
       </file>
       <file name="$USER_HOME$/code/GankIO/app/src/test/java/com/xiii/gankio/RxjavaTest.java" timestamp="1502776399392">
         <mark key="[" line="51" column="15" />
@@ -239,11 +245,11 @@
         <mark key="." line="71" column="69" />
         <mark key="^" line="71" column="69" />
       </file>
-      <file name="$USER_HOME$/code/Gank/app/src/main/AndroidManifest.xml" timestamp="1502866774123">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="5" column="29" />
-        <mark key="^" line="5" column="29" />
-        <mark key="." line="5" column="29" />
+      <file name="$USER_HOME$/code/Gank/app/src/main/AndroidManifest.xml" timestamp="1502947278922">
+        <mark key="[" line="18" column="40" />
+        <mark key="]" line="19" column="7" />
+        <mark key="^" line="19" column="7" />
+        <mark key="." line="19" column="7" />
       </file>
       <file name="/fragment.java" timestamp="1502937389969">
         <mark key="[" line="0" column="0" />
@@ -350,40 +356,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>MainActivity</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>MainActivity</text>
       </register>
       <register name="/" type="4">
         <text>url</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmhhcmR3YXJlQWNjZWxlcmF0ZWQ9InRydWUiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZGVyLmFkZEludGVyY2VwdG9yKGNhY2hlSW50ZXJjZXB0b3IpOwo=</text>
+        <text encoding="base64">ICAgICAgICBidWlsZGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZGVyLmFkZE5ldHdvcmtJbnRlcmNlcHRvcihjYWNoZUludGVyY2VwdG9yKTsK</text>
+        <text encoding="base64">ICAgICAgICBidWlsZGVyLmFkZEludGVyY2VwdG9yKGNhY2hlSW50ZXJjZXB0b3IpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkLnV0aWwuTHJ1Q2FjaGUK</text>
+        <text encoding="base64">ICAgICAgICBidWlsZGVyLmFkZE5ldHdvcmtJbnRlcmNlcHRvcihjYWNoZUludGVyY2VwdG9yKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IAo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkLnV0aWwuTHJ1Q2FjaGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNQX0NVUlJFTlRfSVRFCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBERUZBVUxUX0NVUlJFTlRfSVRFTT0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNQX0NVUlJFTlRfSVRFCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBERUZBVUxUX0NVUlJFTlRfSVRFTT0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBwYWdlCg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
