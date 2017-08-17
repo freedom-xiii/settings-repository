@@ -70,6 +70,9 @@
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/internal/operators/observable/ObservableJust.java" timestamp="1502979602356">
+        <mark key="'" line="27" column="8" />
+      </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/di/module/AppModule.java" timestamp="1502940911900">
         <mark key="[" line="18" column="16" />
         <mark key="]" line="18" column="16" />
@@ -209,11 +212,6 @@
         <mark key="]" line="147" column="4" />
         <mark key="." line="147" column="4" />
       </file>
-      <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/WelcomeActivity.java" timestamp="1502947316634">
-        <mark key="]" line="5" column="27" />
-        <mark key="^" line="5" column="27" />
-        <mark key="." line="5" column="27" />
-      </file>
       <file name="$USER_HOME$/code/GankIO/app/src/test/java/com/xiii/gankio/RxjavaTest.java" timestamp="1502776399392">
         <mark key="[" line="51" column="15" />
         <mark key="]" line="51" column="15" />
@@ -325,7 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/SimpleActivity.java" />
       <jump line="49" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/SimpleActivity.java" />
       <jump line="51" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/SimpleActivity.java" />
       <jump line="58" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/SimpleActivity.java" />
@@ -425,6 +422,7 @@
       <jump line="832" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/plugins/RxJavaPlugins.java" />
       <jump line="835" column="108" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/plugins/RxJavaPlugins.java" />
       <jump line="839" column="45" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/plugins/RxJavaPlugins.java" />
+      <jump line="27" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/internal/operators/observable/ObservableJust.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -434,7 +432,7 @@
         <text>服务器返回error</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbk9ic2VydmFibGVBc3NlbWJseVw+</text>
+        <text encoding="base64">XDx0aGlzXD4=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUHVibGlzaFByb2Nlc3Nvcgo=</text>
@@ -468,9 +466,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbk9ic2VydmFibGVBc3NlbWJseVw+</last-search>
+      <last-search encoding="base64">XDx0aGlzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbk9ic2VydmFibGVBc3NlbWJseVw+</last-pattern>
+      <last-pattern encoding="base64">XDx0aGlzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -480,6 +478,7 @@
         <entry>Api</entry>
         <entry>ApiException</entry>
         <entry encoding="base64">XDxvbk9ic2VydmFibGVBc3NlbWJseVw+</entry>
+        <entry encoding="base64">XDx0aGlzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set nu</entry>
