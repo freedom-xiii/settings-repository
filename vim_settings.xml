@@ -193,6 +193,9 @@
         <mark key="." line="71" column="69" />
         <mark key="^" line="71" column="69" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/plugins/RxJavaPlugins.java" timestamp="1502977680531">
+        <mark key="'" line="724" column="15" />
+      </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/util/RxUtil.java" timestamp="1502976092335">
         <mark key="'" line="105" column="0" />
         <mark key="[" line="61" column="37" />
@@ -322,9 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/app/App.java" />
-      <jump line="107" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/app/App.java" />
-      <jump line="19" column="22" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/SimpleActivity.java" />
       <jump line="20" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/SimpleActivity.java" />
       <jump line="23" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/SimpleActivity.java" />
       <jump line="34" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/SimpleActivity.java" />
@@ -422,6 +422,9 @@
       <jump line="53" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/MaybeObserver.java" />
       <jump line="63" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/MaybeObserver.java" />
       <jump line="68" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/MaybeObserver.java" />
+      <jump line="1031" column="63" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/plugins/RxJavaPlugins.java" />
+      <jump line="74" column="71" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/plugins/RxJavaPlugins.java" />
+      <jump line="724" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/plugins/RxJavaPlugins.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -431,7 +434,7 @@
         <text>服务器返回error</text>
       </register>
       <register name="/" type="4">
-        <text>ApiException</text>
+        <text encoding="base64">XDxvbk9ic2VydmFibGVBc3NlbWJseVw+</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUHVibGlzaFByb2Nlc3Nvcgo=</text>
@@ -465,9 +468,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ApiException</last-search>
+      <last-search encoding="base64">XDxvbk9ic2VydmFibGVBc3NlbWJseVw+</last-search>
       <last-offset />
-      <last-pattern>ApiException</last-pattern>
+      <last-pattern encoding="base64">XDxvbk9ic2VydmFibGVBc3NlbWJseVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -476,6 +479,7 @@
         <entry>url</entry>
         <entry>Api</entry>
         <entry>ApiException</entry>
+        <entry encoding="base64">XDxvbk9ic2VydmFibGVBc3NlbWJseVw+</entry>
       </history-search>
       <history-cmd>
         <entry>set nu</entry>
