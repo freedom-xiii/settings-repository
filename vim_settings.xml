@@ -160,11 +160,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/ui/main/activity/WelcomeActivity.java" timestamp="1503022881926">
-        <mark key="[" line="17" column="43" />
-        <mark key="]" line="43" column="10" />
-        <mark key="^" line="43" column="10" />
-        <mark key="." line="43" column="10" />
+      <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/ui/main/activity/WelcomeActivity.java" timestamp="1503023720343">
+        <mark key="[" line="33" column="51" />
+        <mark key="]" line="34" column="35" />
+        <mark key="." line="34" column="35" />
+        <mark key="^" line="34" column="35" />
       </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/app/App.java" timestamp="1502935085122">
         <mark key="[" line="47" column="19" />
@@ -430,8 +430,8 @@
       <jump line="56" column="0" filename="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/util/RxUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>textSize</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1EaXNwb3NhYmxlLmRpc3Bvc2UoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>textSize</text>
@@ -440,31 +440,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1EaXNwb3NhYmxlLmRpc3Bvc2UoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGQuZGlzcG9zZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIG9uQ3JlYXRlKEJ1bmRsZSBzYXZlZEluc3RhbmNlU3RhdGUpIHsK</text>
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIG9uQ3JlYXRlKEJ1bmRsZSBzYXZlZEluc3RhbmNlU3RhdGUpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgT2JzZXJ2YWJsZS5qdXN0KCIxIikK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUHVibGlzaFByb2Nlc3Nvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRmxvd2FibGVQcm9jZXNzb3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgT2JzZXJ2YWJsZS5qdXN0KCIxIikK</text>
       </register>
       <register name=":" type="4">
         <text>82</text>
