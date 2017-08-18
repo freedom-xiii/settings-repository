@@ -160,10 +160,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/ui/main/activity/WelcomeActivity.java" timestamp="1503025456071">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/ui/main/activity/WelcomeActivity.java" timestamp="1503026241969">
+        <mark key="[" line="30" column="23" />
+        <mark key="]" line="30" column="28" />
+        <mark key="." line="30" column="28" />
+        <mark key="^" line="30" column="28" />
       </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/app/App.java" timestamp="1502935085122">
         <mark key="[" line="47" column="19" />
@@ -429,11 +430,11 @@
       <jump line="56" column="0" filename="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/util/RxUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bURpc3Bvc2FibGUuCg==</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>textSize</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>re</text>
@@ -466,7 +467,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>82</text>
+        <text>set nu</text>
       </register>
     </registers>
     <search>
@@ -494,9 +495,9 @@
         <entry>23</entry>
         <entry>5</entry>
         <entry>17</entry>
-        <entry>set nu</entry>
         <entry>54</entry>
         <entry>82</entry>
+        <entry>set nu</entry>
       </history-cmd>
       <history-expr />
       <history-input />
