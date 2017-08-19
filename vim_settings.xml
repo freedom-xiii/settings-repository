@@ -85,11 +85,11 @@
         <mark key="^" line="24" column="35" />
         <mark key="." line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/code/Gank/app/src/main/res/rxjava2.puml" timestamp="1503113425825">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="9" column="24" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/code/Gank/app/src/main/res/rxjava2.puml" timestamp="1503114973565">
+        <mark key="[" line="22" column="45" />
+        <mark key="]" line="22" column="52" />
+        <mark key="^" line="22" column="52" />
+        <mark key="." line="22" column="52" />
       </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/component/RxBus.java" timestamp="1503021833707">
         <mark key="'" line="39" column="0" />
@@ -434,41 +434,41 @@
       <jump line="56" column="0" filename="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/util/RxUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgT2JzZXJ2YWJsZUNyZWF0ZS0+T2JzZXJ2YWJsZTpyZXR1cm4gbmV3IE9ic2VydmFibGVDcmVhZXRlCg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgT2JzZXJ2YWJsZUNyZWF0ZS0+T2JzZXJ2YWJsZTpyZXR1cm4gbmV3IE9ic2VydmFibGVDcmVhZXRlCg==</text>
+        <text encoding="base64">ICAgT2JzZXJ2YWJsZS0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgT2JzZXJ2YWJsZUNyZWF0ZS0tPk9ic2VydmFibGVDcmVhdGU6bmV3IE9ic2VydmFibGVDcmVhdGUoT2JzZXJ2YWJsZU9uU3Vic2NyaWJlIHNvdXJjZSkK</text>
+        <text encoding="base64">ICAgT2JzZXJ2YWJsZUNyZWF0ZS0+T2JzZXJ2YWJsZTpyZXR1cm4gbmV3IE9ic2VydmFibGVDcmVhZXRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bURpc3Bvc2FibGUuCg==</text>
+        <text encoding="base64">ICAgT2JzZXJ2YWJsZUNyZWF0ZS0tPk9ic2VydmFibGVDcmVhdGU6bmV3IE9ic2VydmFibGVDcmVhdGUoT2JzZXJ2YWJsZU9uU3Vic2NyaWJlIHNvdXJjZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1EaXNwb3NhYmxlLmRpc3Bvc2UoKTsK</text>
+        <text encoding="base64">bURpc3Bvc2FibGUuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGQuZGlzcG9zZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1EaXNwb3NhYmxlLmRpc3Bvc2UoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGQuZGlzcG9zZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIG9uQ3JlYXRlKEJ1bmRsZSBzYXZlZEluc3RhbmNlU3RhdGUpIHsK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
