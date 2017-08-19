@@ -85,11 +85,11 @@
         <mark key="^" line="24" column="35" />
         <mark key="." line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/code/Gank/app/src/main/res/rxjava2.puml" timestamp="1503118298936">
-        <mark key="[" line="43" column="31" />
-        <mark key="]" line="43" column="30" />
-        <mark key="^" line="43" column="30" />
-        <mark key="." line="43" column="30" />
+      <file name="$USER_HOME$/code/Gank/app/src/main/res/rxjava2.puml" timestamp="1503182620671">
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="21" column="23" />
+        <mark key="^" line="21" column="23" />
+        <mark key="." line="21" column="23" />
       </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/component/RxBus.java" timestamp="1503021833707">
         <mark key="'" line="39" column="0" />
@@ -441,7 +441,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>re</text>
+        <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgT2JzZXJ2YWJsZS0+Cg==</text>
@@ -475,9 +475,9 @@
       </register>
     </registers>
     <search>
-      <last-search>re</last-search>
+      <last-search encoding="base64">XDwoXD4=</last-search>
       <last-offset />
-      <last-pattern>re</last-pattern>
+      <last-pattern encoding="base64">XDwoXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -493,6 +493,7 @@
         <entry>82</entry>
         <entry>80</entry>
         <entry>re</entry>
+        <entry encoding="base64">XDwoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>20</entry>
