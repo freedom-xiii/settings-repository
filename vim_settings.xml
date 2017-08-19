@@ -85,11 +85,11 @@
         <mark key="^" line="24" column="35" />
         <mark key="." line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/code/Gank/app/src/main/res/rxjava2.puml" timestamp="1503116575481">
-        <mark key="[" line="31" column="37" />
-        <mark key="]" line="31" column="37" />
-        <mark key="^" line="31" column="37" />
-        <mark key="." line="31" column="37" />
+      <file name="$USER_HOME$/code/Gank/app/src/main/res/rxjava2.puml" timestamp="1503118298936">
+        <mark key="[" line="43" column="31" />
+        <mark key="]" line="43" column="30" />
+        <mark key="^" line="43" column="30" />
+        <mark key="." line="43" column="30" />
       </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/component/RxBus.java" timestamp="1503021833707">
         <mark key="'" line="39" column="0" />
@@ -435,10 +435,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>re</text>
