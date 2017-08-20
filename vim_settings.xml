@@ -156,6 +156,7 @@
         <mark key="." line="26" column="51" />
         <mark key="^" line="26" column="51" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/schedulers/Schedulers.java" timestamp="1503206626871" />
       <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/util/SnackbarUtil.java" timestamp="1502869769994">
         <mark key="[" line="18" column="1" />
         <mark key="]" line="18" column="1" />
