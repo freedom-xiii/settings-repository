@@ -167,11 +167,10 @@
         <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/Observable.java" timestamp="1503189326174" />
-      <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/ui/main/activity/WelcomeActivity.java" timestamp="1503187586192">
-        <mark key="[" line="30" column="23" />
-        <mark key="]" line="30" column="28" />
-        <mark key="." line="30" column="28" />
-        <mark key="^" line="30" column="28" />
+      <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/ui/main/activity/WelcomeActivity.java" timestamp="1503201379566">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/app/App.java" timestamp="1502935085122">
         <mark key="[" line="47" column="19" />
@@ -437,7 +436,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgT2JzZXJ2YWJsZUxpZnQ8U3RyaW5nLFN0cmluZz4oKQo=</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -446,31 +445,31 @@
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgT2JzZXJ2YWJsZUxpZnQ8U3RyaW5nLFN0cmluZz4oKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">QHN0YXJ0dW1sCkFsaWNlIC0+IEJvYjogQXV0aGVudGljYXRpb24gUmVxdWVzdApCb2IgLS0+IEFsaWNlOiBBdXRoZW50aWNhdGlvbiBSZXNwb25zZQoKQWxpY2UgLT4gQm9iOiBBbm90aGVyIGF1dGhlbnRpY2F0aW9uIFJlcXVlc3QKQWxpY2UgPC0tIEJvYjogYW5vdGhlciA=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIE9ic2VydmFibGVDcmVhdGUtfD5PYnNlcnZhYmxlCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgbm90ZSBsZWZ0Om1hcHBlci5hcHBseSjljp/lp4vmlbDmja4pCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgT2JzZXJ2YWJsZS0+Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgT2JzZXJ2YWJsZUNyZWF0ZS0+T2JzZXJ2YWJsZTpyZXR1cm4gbmV3IE9ic2VydmFibGVDcmVhZXRlCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgT2JzZXJ2YWJsZUNyZWF0ZS0tPk9ic2VydmFibGVDcmVhdGU6bmV3IE9ic2VydmFibGVDcmVhdGUoT2JzZXJ2YWJsZU9uU3Vic2NyaWJlIHNvdXJjZSkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">bURpc3Bvc2FibGUuCg==</text>
+        <text encoding="base64">ICAgT2JzZXJ2YWJsZUNyZWF0ZS0tPk9ic2VydmFibGVDcmVhdGU6bmV3IE9ic2VydmFibGVDcmVhdGUoT2JzZXJ2YWJsZU9uU3Vic2NyaWJlIHNvdXJjZSkK</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
