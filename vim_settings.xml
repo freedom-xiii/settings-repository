@@ -143,11 +143,11 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="8" />
       </file>
-      <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/di/component/ActivityComponent.java" timestamp="1503214213507">
-        <mark key="[" line="19" column="48" />
-        <mark key="]" line="19" column="48" />
-        <mark key="." line="19" column="48" />
-        <mark key="^" line="19" column="48" />
+      <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/di/component/ActivityComponent.java" timestamp="1503219448746">
+        <mark key="[" line="22" column="42" />
+        <mark key="]" line="22" column="42" />
+        <mark key="." line="22" column="42" />
+        <mark key="^" line="22" column="42" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/Scheduler.java" timestamp="1503208107542" />
       <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/app/App.java" timestamp="1502867560271">
@@ -195,6 +195,9 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="137" column="0" />
       </file>
+      <file name="$USER_HOME$/code/Gank/app/src/main/res/layout/activity_main.xml" timestamp="1503219818388">
+        <mark key="'" line="3" column="10" />
+      </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/model/http/exception/ApiException.java" timestamp="1502956689278">
         <mark key="[" line="17" column="5" />
         <mark key="]" line="19" column="25" />
@@ -222,11 +225,11 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/ui/main/activity/MainActivity.java" timestamp="1503215399820">
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="82" />
-        <mark key="^" line="9" column="82" />
-        <mark key="." line="9" column="82" />
+      <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/ui/main/activity/MainActivity.java" timestamp="1503219487419">
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="36" />
+        <mark key="^" line="24" column="36" />
+        <mark key="." line="24" column="36" />
       </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/model/event/NightModeEvent.java" timestamp="1503216180770">
         <mark key="[" line="13" column="33" />
@@ -403,7 +406,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/internal/operators/observable/ObservableSubscribeOn.java" timestamp="1503207628693" />
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/model/http/RetrofitHelper.java" />
       <jump line="38" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/model/http/RetrofitHelper.java" />
       <jump line="43" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/model/http/RetrofitHelper.java" />
       <jump line="50" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/model/http/RetrofitHelper.java" />
@@ -503,16 +505,17 @@
       <jump line="36" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/util/RxUtil.java" />
       <jump line="59" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/util/RxUtil.java" />
       <jump line="82" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/util/RxUtil.java" />
+      <jump line="3" column="10" filename="$USER_HOME$/code/Gank/app/src/main/res/layout/activity_main.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>Log</text>
+        <text encoding="base64">XDx0b29sc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICBwcml2YXRlIGludCB0aGFua3M7CiAgICBwcml2YXRlIFN0cmluZyBjb250ZW50X3JlbmRlcmVkOwogICAgcHJpdmF0ZSBNZW1iZXJCZWFuIG1lbWJlcjsKICAgIHByaXZhdGUgaW50IGNyZWF0ZWQ7CgogICAgcHVibGljIGludCBnZXRUaGFua3MoKSB7CiAgICAgICAgcmV0dXJuIHRoYW5rczsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRUaGFua3MoaW50IHRoYW5rcykgewogICAgICAgIHRoaXMudGhhbmtzID0gdGhhbmtzOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0Q29udGVudF9yZW5kZXJlZCgpIHsKICAgICAgICByZXR1cm4gY29udGVudF9yZW5kZXJlZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRDb250ZW50X3JlbmRlcmVkKFN0cmluZyBjb250ZW50X3JlbmRlcmVkKSB7CiAgICAgICAgdGhpcy5jb250ZW50X3JlbmRlcmVkID0gY29udGVudF9yZW5kZXJlZDsKICAgIH0KCiAgICBwdWJsaWMgTWVtYmVyQmVhbiBnZXRNZW1iZXIoKSB7CiAgICAgICAgcmV0dXJuIG1lbWJlcjsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRNZW1iZXIoTWVtYmVyQmVhbiBtZW1iZXIpIHsKICAgICAgICB0aGlzLm1lbWJlciA9IG1lbWJlcjsKICAgIH0KCiAgICBwdWJsaWMgaW50IGdldENyZWF0ZWQoKSB7CiAgICAgICAgcmV0dXJuIGNyZWF0ZWQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Q3JlYXRlZChpbnQgY3JlYXRlZCkgewogICAgICAgIHRoaXMuY3JlYXRlZCA9IGNyZWF0ZWQ7CiAgICB9CgogICAgcHVibGljIHN0YXRpYyBjbGFzcyBNZW1iZXJCZWFuIHsKICAgICAgICAvKioKICAgICAgICAgKiBpZCA6IDY4NjMyCiAgICAgICAgICogdXNlcm5hbWUgOiBtYXNvbjk2MTEyNQogICAgICAgICAqIHRhZ2xpbmUgOgogICAgICAgICAqIGF2YXRhcl9ub3JtYWwgOiAvL2Nkbi52MmV4LmNvL2dyYXZhdGFyLzc0OWM0M2NiOGNkN2MwNzg2YTU1ZDRiZTA1Y2M2YjNhP3M9MjQmZD1yZXRybwogICAgICAgICAqIGF2YXRhcl9ub3JtYWwgOiAvL2Nkbi52MmV4LmNvL2dyYXZhdGFyLzc0OWM0M2NiOGNkN2MwNzg2YTU1ZDRiZTA1Y2M2YjNhP3M9NDgmZD1yZXRybwogICAgICAgICAqIGF2YXRhcl9sYXJnZSA6IC8vY2RuLnYyZXguY28vZ3JhdmF0YXIvNzQ5YzQzY2I4Y2Q3YzA3ODZhNTVkNGJlMDVjYzZiM2E/cz03MyZkPXJldHJvCiAgICAgICAgICovCgogICAgICAgIHByaXZhdGUgU3RyaW5nIHVzZXJuYW1lOwogICAgICAgIHByaXZhdGUgU3RyaW5nIGF2YXRhcl9ub3JtYWw7CgogICAgICAgIHB1YmxpYyBTdHJpbmcgZ2V0VXNlcm5hbWUoKSB7CiAgICAgICAgICAgIHJldHVybiB1c2VybmFtZTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyB2b2lkIHNldFVzZXJuYW1lKFN0cmluZyB1c2VybmFtZSkgewogICAgICAgICAgICB0aGlzLnVzZXJuYW1lID0gdXNlcm5hbWU7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgU3RyaW5nIGdldGF2YXRhcl9ub3JtYWwoKSB7CiAgICAgICAgICAgIHJldHVybiBhdmF0YXJfbm9ybWFsOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgc2V0YXZhdGFyX25vcm1hbChTdHJpbmcgYXZhdGFyX25vcm1hbCkgewogICAgICAgICAgICB0aGlzLmF2YXRhcl9ub3JtYWwgPSBhdmF0YXJfbm9ybWFsOwogICAgICAgIH0KICAgIH0KfQo=</text>
@@ -549,9 +552,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Log</last-search>
+      <last-search encoding="base64">XDx0b29sc1w+</last-search>
       <last-offset />
-      <last-pattern>Log</last-pattern>
+      <last-pattern encoding="base64">XDx0b29sc1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -570,6 +573,7 @@
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDxwb29sXD4=</entry>
         <entry>Log</entry>
+        <entry encoding="base64">XDx0b29sc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>20</entry>
