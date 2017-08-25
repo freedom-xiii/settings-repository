@@ -175,11 +175,11 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/common/Constants.java" timestamp="1503633187784">
-        <mark key="[" line="7" column="37" />
-        <mark key="]" line="7" column="46" />
-        <mark key="." line="7" column="46" />
-        <mark key="^" line="7" column="46" />
+      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/common/Constants.java" timestamp="1503647508759">
+        <mark key="[" line="9" column="58" />
+        <mark key="]" line="9" column="58" />
+        <mark key="." line="9" column="58" />
+        <mark key="^" line="9" column="58" />
       </file>
       <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/util/RxUtil.java" timestamp="1503641826263">
         <mark key="'" line="128" column="0" />
@@ -225,6 +225,12 @@
         <mark key="]" line="49" column="21" />
         <mark key="^" line="49" column="21" />
         <mark key="." line="49" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/GankIO/app/src/main/res/layout/fragment_main.xml" timestamp="1503647073873">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="36" />
+        <mark key="^" line="17" column="36" />
+        <mark key="." line="17" column="36" />
       </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/res/layout/activity_welcome.xml" timestamp="1503214117504">
         <mark key="[" line="15" column="43" />
@@ -322,6 +328,12 @@
         <mark key="]" line="6" column="2" />
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
+      </file>
+      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/base/SimpleFragment.java" timestamp="1503646640368">
+        <mark key="[" line="58" column="41" />
+        <mark key="]" line="60" column="38" />
+        <mark key="^" line="60" column="38" />
+        <mark key="." line="60" column="38" />
       </file>
       <file name="$USER_HOME$/code/Gank/config.gradle" timestamp="1502864447920">
         <mark key="[" line="11" column="32" />
@@ -422,6 +434,9 @@
         <mark key="^" line="15" column="69" />
         <mark key="." line="15" column="69" />
       </file>
+      <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/SimpleFragment.java" timestamp="1503646541956">
+        <mark key="'" line="62" column="0" />
+      </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/util/RxUtil.java" timestamp="1503217986242">
         <mark key="[" line="73" column="124" />
         <mark key="]" line="73" column="123" />
@@ -474,7 +489,13 @@
         <mark key="." line="36" column="51" />
         <mark key="^" line="36" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503227503724">
+      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/ui/fragment/MainFragment.java" timestamp="1503647446867">
+        <mark key="[" line="20" column="3" />
+        <mark key="]" line="20" column="3" />
+        <mark key="^" line="20" column="3" />
+        <mark key="." line="20" column="3" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1503646849483">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/GankIO/app/src/main/res/layout/activity_main.xml" timestamp="1502700048859">
@@ -531,7 +552,7 @@
         <mark key="^" line="23" column="46" />
         <mark key="." line="23" column="46" />
       </file>
-      <file name="/fragment.java" timestamp="1503644275939">
+      <file name="/fragment.java" timestamp="1503646691530">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="^" line="0" column="22" />
@@ -539,14 +560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/component/RxBus.java" />
-      <jump line="32" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/MaybeObserver.java" />
-      <jump line="33" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/MaybeObserver.java" />
-      <jump line="42" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/MaybeObserver.java" />
-      <jump line="53" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/MaybeObserver.java" />
-      <jump line="63" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/MaybeObserver.java" />
-      <jump line="68" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/MaybeObserver.java" />
-      <jump line="1031" column="63" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/plugins/RxJavaPlugins.java" />
       <jump line="74" column="71" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/plugins/RxJavaPlugins.java" />
       <jump line="724" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/plugins/RxJavaPlugins.java" />
       <jump line="832" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/plugins/RxJavaPlugins.java" />
@@ -639,13 +652,21 @@
       <jump line="43" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/widget/CommonSubscriber.java" />
       <jump line="45" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/widget/CommonSubscriber.java" />
       <jump line="65" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/widget/CommonSubscriber.java" />
+      <jump line="22" column="32" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/SimpleFragment.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/SimpleFragment.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/SimpleFragment.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/SimpleFragment.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/SimpleFragment.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/SimpleFragment.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/SimpleFragment.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/SimpleFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>vp_gank_main</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b29sc1w+</text>
@@ -654,31 +675,31 @@
         <text encoding="base64">CiAgICBwcml2YXRlIGludCB0aGFua3M7CiAgICBwcml2YXRlIFN0cmluZyBjb250ZW50X3JlbmRlcmVkOwogICAgcHJpdmF0ZSBNZW1iZXJCZWFuIG1lbWJlcjsKICAgIHByaXZhdGUgaW50IGNyZWF0ZWQ7CgogICAgcHVibGljIGludCBnZXRUaGFua3MoKSB7CiAgICAgICAgcmV0dXJuIHRoYW5rczsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRUaGFua3MoaW50IHRoYW5rcykgewogICAgICAgIHRoaXMudGhhbmtzID0gdGhhbmtzOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0Q29udGVudF9yZW5kZXJlZCgpIHsKICAgICAgICByZXR1cm4gY29udGVudF9yZW5kZXJlZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRDb250ZW50X3JlbmRlcmVkKFN0cmluZyBjb250ZW50X3JlbmRlcmVkKSB7CiAgICAgICAgdGhpcy5jb250ZW50X3JlbmRlcmVkID0gY29udGVudF9yZW5kZXJlZDsKICAgIH0KCiAgICBwdWJsaWMgTWVtYmVyQmVhbiBnZXRNZW1iZXIoKSB7CiAgICAgICAgcmV0dXJuIG1lbWJlcjsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRNZW1iZXIoTWVtYmVyQmVhbiBtZW1iZXIpIHsKICAgICAgICB0aGlzLm1lbWJlciA9IG1lbWJlcjsKICAgIH0KCiAgICBwdWJsaWMgaW50IGdldENyZWF0ZWQoKSB7CiAgICAgICAgcmV0dXJuIGNyZWF0ZWQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Q3JlYXRlZChpbnQgY3JlYXRlZCkgewogICAgICAgIHRoaXMuY3JlYXRlZCA9IGNyZWF0ZWQ7CiAgICB9CgogICAgcHVibGljIHN0YXRpYyBjbGFzcyBNZW1iZXJCZWFuIHsKICAgICAgICAvKioKICAgICAgICAgKiBpZCA6IDY4NjMyCiAgICAgICAgICogdXNlcm5hbWUgOiBtYXNvbjk2MTEyNQogICAgICAgICAqIHRhZ2xpbmUgOgogICAgICAgICAqIGF2YXRhcl9ub3JtYWwgOiAvL2Nkbi52MmV4LmNvL2dyYXZhdGFyLzc0OWM0M2NiOGNkN2MwNzg2YTU1ZDRiZTA1Y2M2YjNhP3M9MjQmZD1yZXRybwogICAgICAgICAqIGF2YXRhcl9ub3JtYWwgOiAvL2Nkbi52MmV4LmNvL2dyYXZhdGFyLzc0OWM0M2NiOGNkN2MwNzg2YTU1ZDRiZTA1Y2M2YjNhP3M9NDgmZD1yZXRybwogICAgICAgICAqIGF2YXRhcl9sYXJnZSA6IC8vY2RuLnYyZXguY28vZ3JhdmF0YXIvNzQ5YzQzY2I4Y2Q3YzA3ODZhNTVkNGJlMDVjYzZiM2E/cz03MyZkPXJldHJvCiAgICAgICAgICovCgogICAgICAgIHByaXZhdGUgU3RyaW5nIHVzZXJuYW1lOwogICAgICAgIHByaXZhdGUgU3RyaW5nIGF2YXRhcl9ub3JtYWw7CgogICAgICAgIHB1YmxpYyBTdHJpbmcgZ2V0VXNlcm5hbWUoKSB7CiAgICAgICAgICAgIHJldHVybiB1c2VybmFtZTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyB2b2lkIHNldFVzZXJuYW1lKFN0cmluZyB1c2VybmFtZSkgewogICAgICAgICAgICB0aGlzLnVzZXJuYW1lID0gdXNlcm5hbWU7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgU3RyaW5nIGdldGF2YXRhcl9ub3JtYWwoKSB7CiAgICAgICAgICAgIHJldHVybiBhdmF0YXJfbm9ybWFsOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgc2V0YXZhdGFyX25vcm1hbChTdHJpbmcgYXZhdGFyX25vcm1hbCkgewogICAgICAgICAgICB0aGlzLmF2YXRhcl9ub3JtYWwgPSBhdmF0YXJfbm9ybWFsOwogICAgICAgIH0KICAgIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBPYnNlcnZhYmw7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIENvbnN0YW50cyB7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIFVuYmluZGVyIHVuYmluZGVyOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFVuYmluZGVyIHVuYmluZGVyOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cn0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGl0bGU9IuW5sua0u+mbhuS4reiQpSIK</text>
+        <text encoding="base64">ICAgICAgICBPYnNlcnZhYmw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjI0ZHAiCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
