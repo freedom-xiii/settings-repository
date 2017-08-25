@@ -5,13 +5,25 @@
       <mark key="H" line="12" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/app/Constants.java" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/di/module/HttpModule.java" timestamp="1502937301411">
+        <mark key="'" line="161" column="0" />
+      </file>
       <file name="$USER_HOME$/code/Gank/app/build/intermediates/res/merged/debug/values-v19/values-v19.xml" timestamp="1503022030496">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="21" />
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/app/Constants.java" timestamp="1503624058985" />
+      <file name="/a.dummy" timestamp="1503629838449">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/presenter/GankNewsPresenter.java" timestamp="1503639961159">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="10" />
+        <mark key="." line="15" column="10" />
+        <mark key="^" line="15" column="10" />
+      </file>
+      <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/app/Constants.java" timestamp="1503639485336" />
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/model/http/HttpHelper.java" timestamp="1503212251708">
         <mark key="[" line="72" column="19" />
         <mark key="]" line="72" column="19" />
@@ -23,6 +35,15 @@
         <mark key="]" line="20" column="35" />
         <mark key="^" line="20" column="35" />
         <mark key="." line="20" column="35" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/internal/operators/observable/ObservableJust.java" timestamp="1502979602356">
+        <mark key="'" line="27" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/base/BasePresenter.java" timestamp="1503630442076">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="21" />
       </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/di/module/AppModule.java" timestamp="1502940911900">
         <mark key="[" line="18" column="16" />
@@ -79,7 +100,6 @@
         <mark key="." line="26" column="51" />
         <mark key="^" line="26" column="51" />
       </file>
-      <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/model/bean/GankItemBean.java" timestamp="1503627808172" />
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/ui/main/activity/WelcomeActivity.java" timestamp="1503215321323">
         <mark key="[" line="27" column="103" />
         <mark key="]" line="28" column="52" />
@@ -91,6 +111,12 @@
         <mark key="]" line="21" column="28" />
         <mark key="^" line="21" column="28" />
         <mark key="." line="21" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/base/BaseView.java" timestamp="1503630374322">
+        <mark key="[" line="15" column="14" />
+        <mark key="]" line="15" column="20" />
+        <mark key="." line="15" column="20" />
+        <mark key="^" line="15" column="20" />
       </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/presenter/main/WelcomePresenter.java" timestamp="1503212990570">
         <mark key="[" line="53" column="27" />
@@ -107,11 +133,20 @@
         <mark key="." line="71" column="69" />
         <mark key="^" line="71" column="69" />
       </file>
+      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/model/DataManager.java" timestamp="1503629999387">
+        <mark key="[" line="35" column="15" />
+        <mark key="]" line="35" column="72" />
+        <mark key="^" line="35" column="72" />
+        <mark key="." line="35" column="72" />
+      </file>
       <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/model/bean/GankHttpResult.java" timestamp="1503628375478">
         <mark key="[" line="8" column="22" />
         <mark key="]" line="8" column="21" />
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/plugins/RxJavaPlugins.java" timestamp="1502977713258">
+        <mark key="'" line="839" column="45" />
       </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/util/LogUtil.java" timestamp="1503217251764">
         <mark key="[" line="39" column="36" />
@@ -125,11 +160,26 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/internal/disposables/DisposableHelper.java" timestamp="1503021120353">
+        <mark key="'" line="100" column="27" />
+      </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/model/bean/WelcomeBean.java" timestamp="1503209812994">
         <mark key="[" line="6" column="26" />
         <mark key="]" line="8" column="22" />
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/common/Constants.java" timestamp="1503633187784">
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="7" column="46" />
+        <mark key="." line="7" column="46" />
+        <mark key="^" line="7" column="46" />
+      </file>
+      <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/util/RxUtil.java" timestamp="1503641826263">
+        <mark key="'" line="128" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/util/SystemUtil.java" timestamp="1502937688858">
+        <mark key="'" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/code/GankIO/build.gradle" timestamp="1503624682903">
         <mark key="[" line="18" column="42" />
@@ -149,6 +199,9 @@
         <mark key="^" line="32" column="73" />
         <mark key="." line="32" column="73" />
       </file>
+      <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/app/App.java" timestamp="1502867560271">
+        <mark key="'" line="107" column="0" />
+      </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/presenter/MainPresenter.java" timestamp="1503218662202">
         <mark key="[" line="116" column="15" />
         <mark key="]" line="116" column="44" />
@@ -167,12 +220,17 @@
         <mark key="^" line="49" column="21" />
         <mark key="." line="49" column="21" />
       </file>
-      <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/ui/main/activity/MainActivity.java" timestamp="1503627090116" />
       <file name="$USER_HOME$/code/Gank/app/src/main/res/layout/activity_welcome.xml" timestamp="1503214117504">
         <mark key="[" line="15" column="43" />
         <mark key="]" line="16" column="34" />
         <mark key="." line="16" column="34" />
         <mark key="^" line="16" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/base/RxPresenter.java" timestamp="1503630974218">
+        <mark key="[" line="33" column="29" />
+        <mark key="]" line="35" column="40" />
+        <mark key="^" line="35" column="40" />
+        <mark key="." line="35" column="40" />
       </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/di/component/AppComponent.java" timestamp="1502935241426">
         <mark key="[" line="26" column="18" />
@@ -204,6 +262,9 @@
         <mark key="]" line="19" column="25" />
         <mark key="." line="19" column="25" />
         <mark key="^" line="19" column="25" />
+      </file>
+      <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/model/http/RetrofitHelper.java" timestamp="1502871232338">
+        <mark key="'" line="61" column="0" />
       </file>
       <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/model/http/HttpHelper.java" timestamp="1503211381826">
         <mark key="[" line="62" column="63" />
@@ -247,6 +308,9 @@
         <mark key="^" line="14" column="26" />
         <mark key="." line="14" column="26" />
       </file>
+      <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/RxPresenter.java" timestamp="1503630986157">
+        <mark key="'" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/base/BasePresenter.java" timestamp="1502954207821">
         <mark key="[" line="5" column="48" />
         <mark key="]" line="6" column="2" />
@@ -259,12 +323,16 @@
         <mark key="." line="11" column="32" />
         <mark key="^" line="41" column="11" />
       </file>
+      <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/model/DataManager.java" timestamp="1502934594090">
+        <mark key="'" line="292" column="0" />
+      </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/di/scope/ActivityScope.java" timestamp="1502870123225">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="11" column="33" />
         <mark key="^" line="11" column="33" />
         <mark key="." line="11" column="33" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.7/cb9b3491633d4018e4e38bb9ca4449434560b47/rxjava-2.0.7-sources.jar!/io/reactivex/Flowable.java" timestamp="1503639866807" />
       <file name="$USER_HOME$/code/GankIO/config.gradle" timestamp="1502861535338">
         <mark key="[" line="102" column="75" />
         <mark key="]" line="104" column="82" />
@@ -300,6 +368,12 @@
         <mark key="]" line="10" column="29" />
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/util/RxUtil.java" timestamp="1503641904570">
+        <mark key="[" line="55" column="38" />
+        <mark key="]" line="56" column="30" />
+        <mark key="^" line="56" column="30" />
+        <mark key="." line="56" column="30" />
       </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/res/drawable/drawer_item_bg.xml" timestamp="1503227444243">
         <mark key="[" line="3" column="53" />
@@ -343,8 +417,8 @@
         <mark key="." line="73" column="123" />
         <mark key="^" line="73" column="123" />
       </file>
-      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/App.java" timestamp="1503627360637">
-        <mark key="a" line="10" column="0" />
+      <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/presenter/gank/TechPresenter.java" timestamp="1503633352808">
+        <mark key="'" line="37" column="0" />
       </file>
       <file name="$USER_HOME$/code/GankIO/app/src/main/AndroidManifest.xml" timestamp="1503627377813">
         <mark key="[" line="4" column="16" />
@@ -383,7 +457,6 @@
         <mark key="." line="36" column="51" />
         <mark key="^" line="36" column="51" />
       </file>
-      <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/model/bean/GankSearchItemBean.java" timestamp="1503627850476" />
       <file name="/Dummy.txt" timestamp="1503227503724">
         <mark key="[" line="0" column="0" />
       </file>
@@ -393,11 +466,27 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
+      <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/widget/CommonSubscriber.java" timestamp="1503216928853">
+        <mark key="'" line="19" column="43" />
+      </file>
+      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/contract/GankNewsContract.java" timestamp="1503631642019">
+        <mark key="'" line="20" column="51" />
+        <mark key="[" line="23" column="49" />
+        <mark key="]" line="23" column="49" />
+        <mark key="^" line="23" column="49" />
+        <mark key="." line="23" column="49" />
+      </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/model/http/RetrofitHelper.java" timestamp="1503214290106">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="^" line="40" column="10" />
         <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/SimpleActivity.java" timestamp="1502868747319">
+        <mark key="'" line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/MaybeObserver.java" timestamp="1502975342719">
+        <mark key="'" line="68" column="0" />
       </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/model/bean/SectionChildListBean.java" timestamp="1503211813266">
         <mark key="'" line="13" column="3" />
@@ -425,7 +514,7 @@
         <mark key="^" line="23" column="46" />
         <mark key="." line="23" column="46" />
       </file>
-      <file name="/fragment.java" timestamp="1503628696582">
+      <file name="/fragment.java" timestamp="1503640135282">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -433,36 +522,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/model/http/RetrofitHelper.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/model/http/RetrofitHelper.java" />
-      <jump line="50" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/model/http/RetrofitHelper.java" />
-      <jump line="66" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/model/http/RetrofitHelper.java" />
-      <jump line="61" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/model/http/RetrofitHelper.java" />
-      <jump line="9" column="13" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/app/Constants.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/app/Constants.java" />
-      <jump line="12" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/app/Constants.java" />
-      <jump line="292" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/model/DataManager.java" />
-      <jump line="199" column="20" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/di/module/HttpModule.java" />
-      <jump line="197" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/di/module/HttpModule.java" />
-      <jump line="191" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/di/module/HttpModule.java" />
-      <jump line="185" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/di/module/HttpModule.java" />
-      <jump line="179" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/di/module/HttpModule.java" />
-      <jump line="173" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/di/module/HttpModule.java" />
-      <jump line="167" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/di/module/HttpModule.java" />
-      <jump line="24" column="13" filename="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/di/module/HttpModule.java" />
-      <jump line="30" column="0" filename="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/di/module/HttpModule.java" />
-      <jump line="36" column="0" filename="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/di/module/HttpModule.java" />
-      <jump line="64" column="0" filename="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/di/module/HttpModule.java" />
-      <jump line="55" column="0" filename="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/di/module/HttpModule.java" />
-      <jump line="136" column="9" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/di/module/HttpModule.java" />
-      <jump line="161" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/di/module/HttpModule.java" />
-      <jump line="161" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/util/SystemUtil.java" />
-      <jump line="132" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/util/SystemUtil.java" />
-      <jump line="127" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/util/SystemUtil.java" />
-      <jump line="119" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/util/SystemUtil.java" />
-      <jump line="114" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/util/SystemUtil.java" />
-      <jump line="106" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/util/SystemUtil.java" />
-      <jump line="66" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/util/SystemUtil.java" />
       <jump line="54" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/util/SystemUtil.java" />
       <jump line="28" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/util/SystemUtil.java" />
       <jump line="113" column="0" filename="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/di/module/HttpModule.java" />
@@ -531,8 +590,38 @@
       <jump line="21" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/util/RxUtil.java" />
       <jump line="36" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/util/RxUtil.java" />
       <jump line="59" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/util/RxUtil.java" />
-      <jump line="82" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/util/RxUtil.java" />
       <jump line="3" column="10" filename="$USER_HOME$/code/Gank/app/src/main/res/layout/activity_main.xml" />
+      <jump line="13" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/RxPresenter.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/RxPresenter.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/RxPresenter.java" />
+      <jump line="29" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/RxPresenter.java" />
+      <jump line="36" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/RxPresenter.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/RxPresenter.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/RxPresenter.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/RxPresenter.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/RxPresenter.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/RxPresenter.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/RxPresenter.java" />
+      <jump line="14" column="51" filename="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/contract/GankNewsContract.java" />
+      <jump line="142" column="17" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/presenter/gank/TechPresenter.java" />
+      <jump line="176" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/presenter/gank/TechPresenter.java" />
+      <jump line="174" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/presenter/gank/TechPresenter.java" />
+      <jump line="145" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/presenter/gank/TechPresenter.java" />
+      <jump line="127" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/presenter/gank/TechPresenter.java" />
+      <jump line="109" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/presenter/gank/TechPresenter.java" />
+      <jump line="79" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/presenter/gank/TechPresenter.java" />
+      <jump line="70" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/presenter/gank/TechPresenter.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/presenter/gank/TechPresenter.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/presenter/gank/TechPresenter.java" />
+      <jump line="29" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/presenter/gank/TechPresenter.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/presenter/gank/TechPresenter.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/presenter/gank/TechPresenter.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/presenter/gank/TechPresenter.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/presenter/gank/TechPresenter.java" />
+      <jump line="74" column="35" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/util/RxUtil.java" />
+      <jump line="82" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/util/RxUtil.java" />
+      <jump line="105" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/util/RxUtil.java" />
+      <jump line="128" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/util/RxUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -548,31 +637,31 @@
         <text encoding="base64">CiAgICBwcml2YXRlIGludCB0aGFua3M7CiAgICBwcml2YXRlIFN0cmluZyBjb250ZW50X3JlbmRlcmVkOwogICAgcHJpdmF0ZSBNZW1iZXJCZWFuIG1lbWJlcjsKICAgIHByaXZhdGUgaW50IGNyZWF0ZWQ7CgogICAgcHVibGljIGludCBnZXRUaGFua3MoKSB7CiAgICAgICAgcmV0dXJuIHRoYW5rczsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRUaGFua3MoaW50IHRoYW5rcykgewogICAgICAgIHRoaXMudGhhbmtzID0gdGhhbmtzOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0Q29udGVudF9yZW5kZXJlZCgpIHsKICAgICAgICByZXR1cm4gY29udGVudF9yZW5kZXJlZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRDb250ZW50X3JlbmRlcmVkKFN0cmluZyBjb250ZW50X3JlbmRlcmVkKSB7CiAgICAgICAgdGhpcy5jb250ZW50X3JlbmRlcmVkID0gY29udGVudF9yZW5kZXJlZDsKICAgIH0KCiAgICBwdWJsaWMgTWVtYmVyQmVhbiBnZXRNZW1iZXIoKSB7CiAgICAgICAgcmV0dXJuIG1lbWJlcjsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRNZW1iZXIoTWVtYmVyQmVhbiBtZW1iZXIpIHsKICAgICAgICB0aGlzLm1lbWJlciA9IG1lbWJlcjsKICAgIH0KCiAgICBwdWJsaWMgaW50IGdldENyZWF0ZWQoKSB7CiAgICAgICAgcmV0dXJuIGNyZWF0ZWQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Q3JlYXRlZChpbnQgY3JlYXRlZCkgewogICAgICAgIHRoaXMuY3JlYXRlZCA9IGNyZWF0ZWQ7CiAgICB9CgogICAgcHVibGljIHN0YXRpYyBjbGFzcyBNZW1iZXJCZWFuIHsKICAgICAgICAvKioKICAgICAgICAgKiBpZCA6IDY4NjMyCiAgICAgICAgICogdXNlcm5hbWUgOiBtYXNvbjk2MTEyNQogICAgICAgICAqIHRhZ2xpbmUgOgogICAgICAgICAqIGF2YXRhcl9ub3JtYWwgOiAvL2Nkbi52MmV4LmNvL2dyYXZhdGFyLzc0OWM0M2NiOGNkN2MwNzg2YTU1ZDRiZTA1Y2M2YjNhP3M9MjQmZD1yZXRybwogICAgICAgICAqIGF2YXRhcl9ub3JtYWwgOiAvL2Nkbi52MmV4LmNvL2dyYXZhdGFyLzc0OWM0M2NiOGNkN2MwNzg2YTU1ZDRiZTA1Y2M2YjNhP3M9NDgmZD1yZXRybwogICAgICAgICAqIGF2YXRhcl9sYXJnZSA6IC8vY2RuLnYyZXguY28vZ3JhdmF0YXIvNzQ5YzQzY2I4Y2Q3YzA3ODZhNTVkNGJlMDVjYzZiM2E/cz03MyZkPXJldHJvCiAgICAgICAgICovCgogICAgICAgIHByaXZhdGUgU3RyaW5nIHVzZXJuYW1lOwogICAgICAgIHByaXZhdGUgU3RyaW5nIGF2YXRhcl9ub3JtYWw7CgogICAgICAgIHB1YmxpYyBTdHJpbmcgZ2V0VXNlcm5hbWUoKSB7CiAgICAgICAgICAgIHJldHVybiB1c2VybmFtZTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyB2b2lkIHNldFVzZXJuYW1lKFN0cmluZyB1c2VybmFtZSkgewogICAgICAgICAgICB0aGlzLnVzZXJuYW1lID0gdXNlcm5hbWU7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgU3RyaW5nIGdldGF2YXRhcl9ub3JtYWwoKSB7CiAgICAgICAgICAgIHJldHVybiBhdmF0YXJfbm9ybWFsOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgc2V0YXZhdGFyX25vcm1hbChTdHJpbmcgYXZhdGFyX25vcm1hbCkgewogICAgICAgICAgICB0aGlzLmF2YXRhcl9ub3JtYWwgPSBhdmF0YXJfbm9ybWFsOwogICAgICAgIH0KICAgIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGl0bGU9IuW5sua0u+mbhuS4reiQpSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjI0ZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICBPYnNlcnZhYmw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIj4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIiAvPgo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIENvbnN0YW50cyB7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PC9hbmRyb2lkLnN1cHBvcnQudjcud2lkZ2V0LlRvb2xiYXJqaj4K</text>
+        <text encoding="base64">ICAgIHByaQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IiAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGl0bGU9IuW5sua0u+mbhuS4reiQpSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjI0ZHAiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Igo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIj4K</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
