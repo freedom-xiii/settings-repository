@@ -17,11 +17,11 @@
       <file name="/a.dummy" timestamp="1503629838449">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/presenter/GankNewsPresenter.java" timestamp="1503639961159">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="10" />
-        <mark key="." line="15" column="10" />
-        <mark key="^" line="15" column="10" />
+      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/presenter/GankNewsPresenter.java" timestamp="1503643316210">
+        <mark key="[" line="32" column="67" />
+        <mark key="]" line="32" column="65" />
+        <mark key="." line="32" column="65" />
+        <mark key="^" line="32" column="65" />
       </file>
       <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/app/Constants.java" timestamp="1503639485336" />
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/model/http/HttpHelper.java" timestamp="1503212251708">
@@ -144,6 +144,12 @@
         <mark key="]" line="8" column="21" />
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/model/http/exception/ApiException.java" timestamp="1503643140512">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="10" column="16" />
+        <mark key="^" line="10" column="16" />
+        <mark key="." line="10" column="16" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/29d73207f0725011a59e0dc02022ac4e4f8445ab/rxjava-2.1.3-sources.jar!/io/reactivex/plugins/RxJavaPlugins.java" timestamp="1502977713258">
         <mark key="'" line="839" column="45" />
@@ -332,7 +338,6 @@
         <mark key="^" line="11" column="33" />
         <mark key="." line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.7/cb9b3491633d4018e4e38bb9ca4449434560b47/rxjava-2.0.7-sources.jar!/io/reactivex/Flowable.java" timestamp="1503639866807" />
       <file name="$USER_HOME$/code/GankIO/config.gradle" timestamp="1502861535338">
         <mark key="[" line="102" column="75" />
         <mark key="]" line="104" column="82" />
@@ -369,11 +374,11 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/util/RxUtil.java" timestamp="1503641904570">
-        <mark key="[" line="55" column="38" />
-        <mark key="]" line="56" column="30" />
-        <mark key="^" line="56" column="30" />
-        <mark key="." line="56" column="30" />
+      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/util/RxUtil.java" timestamp="1503643025944">
+        <mark key="[" line="56" column="39" />
+        <mark key="]" line="57" column="36" />
+        <mark key="^" line="57" column="36" />
+        <mark key="." line="57" column="36" />
       </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/res/drawable/drawer_item_bg.xml" timestamp="1503227444243">
         <mark key="[" line="3" column="53" />
@@ -410,6 +415,12 @@
         <mark key="]" line="30" column="33" />
         <mark key="." line="30" column="33" />
         <mark key="^" line="30" column="33" />
+      </file>
+      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/common/CommonSubscriber.java" timestamp="1503643551561">
+        <mark key="[" line="13" column="44" />
+        <mark key="]" line="15" column="44" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="15" column="44" />
       </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/util/RxUtil.java" timestamp="1503217986242">
         <mark key="[" line="73" column="124" />
@@ -469,12 +480,12 @@
       <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/widget/CommonSubscriber.java" timestamp="1503216928853">
         <mark key="'" line="19" column="43" />
       </file>
-      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/contract/GankNewsContract.java" timestamp="1503631642019">
+      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/contract/GankNewsContract.java" timestamp="1503643238917">
         <mark key="'" line="20" column="51" />
-        <mark key="[" line="23" column="49" />
-        <mark key="]" line="23" column="49" />
+        <mark key="[" line="21" column="44" />
+        <mark key="]" line="21" column="44" />
         <mark key="^" line="23" column="49" />
-        <mark key="." line="23" column="49" />
+        <mark key="." line="21" column="44" />
       </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/model/http/RetrofitHelper.java" timestamp="1503214290106">
         <mark key="[" line="45" column="0" />
@@ -514,11 +525,11 @@
         <mark key="^" line="23" column="46" />
         <mark key="." line="23" column="46" />
       </file>
-      <file name="/fragment.java" timestamp="1503640135282">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/fragment.java" timestamp="1503643468647">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -625,10 +636,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b29sc1w+</text>
@@ -637,31 +648,31 @@
         <text encoding="base64">CiAgICBwcml2YXRlIGludCB0aGFua3M7CiAgICBwcml2YXRlIFN0cmluZyBjb250ZW50X3JlbmRlcmVkOwogICAgcHJpdmF0ZSBNZW1iZXJCZWFuIG1lbWJlcjsKICAgIHByaXZhdGUgaW50IGNyZWF0ZWQ7CgogICAgcHVibGljIGludCBnZXRUaGFua3MoKSB7CiAgICAgICAgcmV0dXJuIHRoYW5rczsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRUaGFua3MoaW50IHRoYW5rcykgewogICAgICAgIHRoaXMudGhhbmtzID0gdGhhbmtzOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0Q29udGVudF9yZW5kZXJlZCgpIHsKICAgICAgICByZXR1cm4gY29udGVudF9yZW5kZXJlZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRDb250ZW50X3JlbmRlcmVkKFN0cmluZyBjb250ZW50X3JlbmRlcmVkKSB7CiAgICAgICAgdGhpcy5jb250ZW50X3JlbmRlcmVkID0gY29udGVudF9yZW5kZXJlZDsKICAgIH0KCiAgICBwdWJsaWMgTWVtYmVyQmVhbiBnZXRNZW1iZXIoKSB7CiAgICAgICAgcmV0dXJuIG1lbWJlcjsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRNZW1iZXIoTWVtYmVyQmVhbiBtZW1iZXIpIHsKICAgICAgICB0aGlzLm1lbWJlciA9IG1lbWJlcjsKICAgIH0KCiAgICBwdWJsaWMgaW50IGdldENyZWF0ZWQoKSB7CiAgICAgICAgcmV0dXJuIGNyZWF0ZWQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Q3JlYXRlZChpbnQgY3JlYXRlZCkgewogICAgICAgIHRoaXMuY3JlYXRlZCA9IGNyZWF0ZWQ7CiAgICB9CgogICAgcHVibGljIHN0YXRpYyBjbGFzcyBNZW1iZXJCZWFuIHsKICAgICAgICAvKioKICAgICAgICAgKiBpZCA6IDY4NjMyCiAgICAgICAgICogdXNlcm5hbWUgOiBtYXNvbjk2MTEyNQogICAgICAgICAqIHRhZ2xpbmUgOgogICAgICAgICAqIGF2YXRhcl9ub3JtYWwgOiAvL2Nkbi52MmV4LmNvL2dyYXZhdGFyLzc0OWM0M2NiOGNkN2MwNzg2YTU1ZDRiZTA1Y2M2YjNhP3M9MjQmZD1yZXRybwogICAgICAgICAqIGF2YXRhcl9ub3JtYWwgOiAvL2Nkbi52MmV4LmNvL2dyYXZhdGFyLzc0OWM0M2NiOGNkN2MwNzg2YTU1ZDRiZTA1Y2M2YjNhP3M9NDgmZD1yZXRybwogICAgICAgICAqIGF2YXRhcl9sYXJnZSA6IC8vY2RuLnYyZXguY28vZ3JhdmF0YXIvNzQ5YzQzY2I4Y2Q3YzA3ODZhNTVkNGJlMDVjYzZiM2E/cz03MyZkPXJldHJvCiAgICAgICAgICovCgogICAgICAgIHByaXZhdGUgU3RyaW5nIHVzZXJuYW1lOwogICAgICAgIHByaXZhdGUgU3RyaW5nIGF2YXRhcl9ub3JtYWw7CgogICAgICAgIHB1YmxpYyBTdHJpbmcgZ2V0VXNlcm5hbWUoKSB7CiAgICAgICAgICAgIHJldHVybiB1c2VybmFtZTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyB2b2lkIHNldFVzZXJuYW1lKFN0cmluZyB1c2VybmFtZSkgewogICAgICAgICAgICB0aGlzLnVzZXJuYW1lID0gdXNlcm5hbWU7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgU3RyaW5nIGdldGF2YXRhcl9ub3JtYWwoKSB7CiAgICAgICAgICAgIHJldHVybiBhdmF0YXJfbm9ybWFsOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgc2V0YXZhdGFyX25vcm1hbChTdHJpbmcgYXZhdGFyX25vcm1hbCkgewogICAgICAgICAgICB0aGlzLmF2YXRhcl9ub3JtYWwgPSBhdmF0YXJfbm9ybWFsOwogICAgICAgIH0KICAgIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBPYnNlcnZhYmw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50Cg==</text>
+        <text encoding="base64">ICAgICAgICBPYnNlcnZhYmw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIENvbnN0YW50cyB7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaQo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIENvbnN0YW50cyB7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGl0bGU9IuW5sua0u+mbhuS4reiQpSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjI0ZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGl0bGU9IuW5sua0u+mbhuS4reiQpSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIj4K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjI0ZHAiCg==</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
