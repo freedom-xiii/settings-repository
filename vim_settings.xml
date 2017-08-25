@@ -175,16 +175,16 @@
         <mark key="." line="11" column="33" />
       </file>
       <file name="$USER_HOME$/code/GankIO/config.gradle" timestamp="1502861535338">
-        <mark key="[" line="33" column="75" />
-        <mark key="]" line="35" column="82" />
-        <mark key="." line="35" column="82" />
-        <mark key="^" line="35" column="82" />
+        <mark key="[" line="102" column="75" />
+        <mark key="]" line="104" column="82" />
+        <mark key="." line="104" column="82" />
+        <mark key="^" line="104" column="82" />
       </file>
       <file name="$USER_HOME$/code/GankIO/app/build.gradle" timestamp="1502851249497">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-        <mark key="^" line="91" column="22" />
+        <mark key="^" line="135" column="22" />
       </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/util/SnackbarUtil.java" timestamp="1502869791946">
         <mark key="[" line="16" column="53" />
@@ -397,6 +397,7 @@
         <mark key="^" line="40" column="10" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/ui/main/activity/MainActivity.java" timestamp="1503624902922" />
       <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/base/SimpleActivity.java" timestamp="1502868747319">
         <mark key="'" line="61" column="0" />
       </file>
