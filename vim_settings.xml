@@ -17,8 +17,8 @@
       <file name="/a.dummy" timestamp="1503629838449">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/GankIO/app/src/main/res/drawable/svg_anim_logo.xml" timestamp="1503888100559">
-        <mark key="[" line="2" column="12" />
+      <file name="$USER_HOME$/code/GankIO/app/src/main/res/drawable/svg_anim_logo.xml" timestamp="1503889248519">
+        <mark key="[" line="3" column="0" />
         <mark key="]" line="2" column="21" />
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
@@ -29,6 +29,7 @@
         <mark key="." line="51" column="61" />
         <mark key="^" line="51" column="61" />
       </file>
+      <file name="$USER_HOME$/code/GeekNews-master/app/src/main/res/drawable/svg_anim_logo.xml" timestamp="1503889278193" />
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/model/http/HttpHelper.java" timestamp="1503212251708">
         <mark key="[" line="72" column="19" />
         <mark key="]" line="72" column="19" />
@@ -414,11 +415,11 @@
         <mark key="." line="104" column="82" />
         <mark key="^" line="104" column="82" />
       </file>
-      <file name="$USER_HOME$/code/GankIO/app/build.gradle" timestamp="1503888161033">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="136" column="22" />
+      <file name="$USER_HOME$/code/GankIO/app/build.gradle" timestamp="1503888801152">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="47" />
+        <mark key="." line="12" column="47" />
+        <mark key="^" line="12" column="47" />
       </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/util/SnackbarUtil.java" timestamp="1502869791946">
         <mark key="[" line="16" column="53" />
