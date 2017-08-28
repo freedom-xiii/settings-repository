@@ -17,11 +17,11 @@
       <file name="/a.dummy" timestamp="1503629838449">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/GankIO/app/src/main/res/drawable/svg_anim_logo.xml" timestamp="1503886791513">
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="39" />
-        <mark key="." line="1" column="39" />
-        <mark key="^" line="1" column="39" />
+      <file name="$USER_HOME$/code/GankIO/app/src/main/res/drawable/svg_anim_logo.xml" timestamp="1503888100559">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="2" column="21" />
       </file>
       <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/presenter/GankNewsPresenter.java" timestamp="1503645121858">
         <mark key="[" line="51" column="22" />
@@ -414,11 +414,11 @@
         <mark key="." line="104" column="82" />
         <mark key="^" line="104" column="82" />
       </file>
-      <file name="$USER_HOME$/code/GankIO/app/build.gradle" timestamp="1502851249497">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="135" column="22" />
+      <file name="$USER_HOME$/code/GankIO/app/build.gradle" timestamp="1503888161033">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="136" column="22" />
       </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/util/SnackbarUtil.java" timestamp="1502869791946">
         <mark key="[" line="16" column="53" />
@@ -787,11 +787,11 @@
       <jump line="1384" column="16" filename="/opt/android-sdk/extras/android/m2repository/com/android/support/support-fragment/26.0.0-alpha1/support-fragment-26.0.0-alpha1-sources.jar!/android/support/v4/app/Fragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>selector</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2ZWN0b3JEcmF3YWJsZS51c2VTdXBwb3J0TGlicmFyeSA9IHRydWU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>selector</text>
+        <text>drawable</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
@@ -800,28 +800,28 @@
         <text encoding="base64">ICAgIFZpZXdQYWdlciBtVmlld1BhZ2VyOwoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIj4K</text>
+        <text encoding="base64">ICAgICAgICB2ZWN0b3JEcmF3YWJsZS51c2VTdXBwb3J0TGlicmFyeSA9IHRydWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBbmltYXRpb24gYQo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByCg==</text>
+        <text encoding="base64">ICAgICAgICBBbmltYXRpb24gYQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHByCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwQ29tcG9uZW50PURhZ2dlckFwcENvbXBvbmVudAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXBwQ29tcG9uZW50PURhZ2dlckFwcENvbXBvbmVudAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
