@@ -92,7 +92,7 @@
         <mark key="." line="34" column="100" />
         <mark key="^" line="34" column="100" />
       </file>
-      <file name="$USER_HOME$/code/GeekNews-master/app/src/main/res/layout/activity_main.xml" timestamp="1504158531884" />
+      <file name="$USER_HOME$/code/GeekNews-master/app/src/main/res/layout/activity_main.xml" timestamp="1504159027032" />
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/di/qualifier/Gank.java" timestamp="1502935516380">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="13" column="33" />
@@ -278,6 +278,10 @@
         <mark key="]" line="116" column="44" />
         <mark key="." line="116" column="44" />
         <mark key="^" line="116" column="44" />
+      </file>
+      <file name="$USER_HOME$/code/GeekNews-master/app/src/main/res/values/colors.xml" timestamp="1504159865798">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="50" />
       </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/base/BaseView.java" timestamp="1502954133393">
         <mark key="[" line="5" column="35" />
@@ -588,6 +592,11 @@
         <mark key="." line="30" column="33" />
         <mark key="^" line="30" column="33" />
       </file>
+      <file name="$USER_HOME$/code/GankIO/app/src/main/res/values/colors.xml" timestamp="1504159870073">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/ui/gank/fragment/TechFragment.java" timestamp="1504152250277">
         <mark key="'" line="63" column="0" />
       </file>
@@ -678,17 +687,29 @@
         <mark key="." line="17" column="22" />
         <mark key="^" line="17" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504158464757">
+      <file name="$USER_HOME$/code/GankIO/app/src/main/res/layout/view_toolbar.xml" timestamp="1504159738013">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="36" />
+        <mark key="^" line="9" column="36" />
+        <mark key="." line="9" column="36" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1504160286027">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/GankIO/app/src/main/res/layout/activity_main.xml" timestamp="1502700048859">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="1" />
-        <mark key="^" line="12" column="1" />
-        <mark key="." line="12" column="1" />
+      <file name="$USER_HOME$/code/GankIO/app/src/main/res/layout/activity_main.xml" timestamp="1504159762716">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="47" column="11" />
       </file>
       <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/widget/CommonSubscriber.java" timestamp="1503644092675">
         <mark key="'" line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/GankIO/app/src/main/res/layout/drawer_header.xml" timestamp="1504160155971">
+        <mark key="[" line="14" column="53" />
+        <mark key="]" line="15" column="27" />
+        <mark key="." line="15" column="27" />
+        <mark key="^" line="15" column="27" />
       </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/model/http/RetrofitHelper.java" timestamp="1503214290106">
         <mark key="[" line="45" column="0" />
@@ -836,44 +857,44 @@
       <jump line="25" column="0" filename="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/model/prefs/ImplPreferencesHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBncgo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>match_parent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmbG9hdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFZpZXdQYWdlciBtVmlld1BhZ2VyOwoK</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJkcmF3ZXJfaXRlbV9iZ19uIj4jZmZmZmY5PC9jb2xvcj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBncgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3Rvb2xiYXIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIG9uQ3JlYXRlKEJ1bmRsZSBzYXZlZEluc3RhbmNlU3RhdGUpIHsK</text>
+        <text encoding="base64">ICAgIDwvYW5kcm9pZC5zdXBwb3J0LnY3LndpZGdldC5Ub29sYmFyPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICA8YW5kcm9pZC5zdXBwb3J0LmRlc2lnbi5pbnRlcm5hbC5OYXZpZ2F0aW9uVmlldwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihmbSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBHYW5rTWFpbkFkYXB0ZXIoRnJhZ21lbnRNYW5hZ2VyIGZtKSB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>30</text>
