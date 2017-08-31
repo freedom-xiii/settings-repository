@@ -372,11 +372,10 @@
         <mark key="." line="30" column="30" />
         <mark key="^" line="30" column="30" />
       </file>
-      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/ui/fragment/NewsFragment.java" timestamp="1503994620257">
+      <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/ui/fragment/NewsFragment.java" timestamp="1504146405375">
         <mark key="[" line="55" column="25" />
-        <mark key="]" line="23" column="63" />
-        <mark key="." line="23" column="63" />
-        <mark key="^" line="23" column="63" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/code/Gank/app/src/main/java/com/xiii/gank/model/db/RealmHelper.java" timestamp="1502941269713">
         <mark key="[" line="8" column="46" />
@@ -596,8 +595,12 @@
         <mark key="." line="93" column="26" />
         <mark key="^" line="93" column="26" />
       </file>
-      <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/presenter/gank/TechPresenter.java" timestamp="1503995052802">
+      <file name="$USER_HOME$/code/GeekNews-master/app/src/main/java/com/codeest/geeknews/presenter/gank/TechPresenter.java" timestamp="1504146365261">
         <mark key="'" line="55" column="56" />
+        <mark key="[" line="43" column="11" />
+        <mark key="]" line="43" column="10" />
+        <mark key="." line="43" column="10" />
+        <mark key="^" line="43" column="10" />
       </file>
       <file name="$USER_HOME$/code/GankIO/app/src/main/java/com/xiii/gankio/util/LogUtil.java" timestamp="1503644479111">
         <mark key="[" line="41" column="36" />
@@ -854,10 +857,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIGdldEZyYWdtZW50Q29tcG9uZW50KCkgCg==</text>
+        <text encoding="base64">ICAgICAgICBtUHJlc2VudGVyLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>cv</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>Girl</text>
@@ -866,31 +869,31 @@
         <text encoding="base64">ICAgIFZpZXdQYWdlciBtVmlld1BhZ2VyOwoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIGdldEZyYWdtZW50Q29tcG9uZW50KCkgCg==</text>
+        <text encoding="base64">ICAgICAgICBtUHJlc2VudGVyLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDYXJkVmlldyBjdiA9IHZpZXcuZmluZFZpZXdCeUlkKFIuaWQuY3ZfbmV3c19jb250ZW50KTsK</text>
+        <text encoding="base64">ICAgICAgIGdldEZyYWdtZW50Q29tcG9uZW50KCkgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBob2xkZXIuYmluZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDYXJkVmlldyBjdiA9IHZpZXcuZmluZFZpZXdCeUlkKFIuaWQuY3ZfbmV3c19jb250ZW50KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBob2xkZXIuYmluZCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBiaW5kKCl7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBMaXN0PFQ+IG1MaXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBiaW5kKCl7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBAQmluZFZpZXcoUi5pZC5jdl9uZXdzX2NvbnRlbnQpCg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBMaXN0PFQ+IG1MaXN0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDYXJkVmlldyBjdk5ld3NDb250ZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICBAQmluZFZpZXcoUi5pZC5jdl9uZXdzX2NvbnRlbnQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>63</text>
